@@ -9,4 +9,5 @@ folder and input the path as shown below (in the input field) :
 
  
 # Check this out in here
+https://upbrainery-technology.github.io/.glb-file-viewer/threeJSTemplate10_VIEW/index.html
 https://ravensoni.github.io/.glb-file-viewer/threeJSTemplate10_VIEW/index.html
